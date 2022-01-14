@@ -1,0 +1,8 @@
+BUILD
+*.pyc
+.mbed
+onewire-mbed-os
+mbed-os
+LiquidCrystal_I2C
+DigitDisplay
+wifi-ism43362
